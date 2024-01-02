@@ -77,7 +77,7 @@
           <h1 class="text-3xl md:text-6xl lg:text-8xl font-semibold text-primary text-center animate-bounce">
               {{ result }}
           </h1>
-          <p class="text-xl md:text-2xl lg:text-4xl font-semibold text-primary text-center">Yang mendapatkan arisan kali ini. Jangan lupa taktirannya ya hehe...</p>
+          <p class="text-xl md:text-2xl lg:text-4xl font-semibold text-primary text-center">Yang mendapatkan arisan kali ini. Jangan lupa traktirannya ya hehe...</p>
         </div>
 
         <div class="flex flex-col md:flex-row gap-4">
